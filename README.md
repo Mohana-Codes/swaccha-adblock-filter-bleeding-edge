@@ -3,10 +3,10 @@
 <div align="center">
 <img width="200" src="docs/images/logo.png" alt="स्वच्छ बल्लिडिङ् एज">
 <p>
-            <a href="https://mohana-codes.github.io/swaccha-adblock-filter-bleeding-edge/" target="_blank" rel="noreferrer noopener">Swaccha Bleeding Edge</a> is a collection of static AdBlock filters for various popular Nepali sites. It helps you keep
+            <a href="https://mohana-codes.github.io/swaccha-adblock-filter-bleeding-edge/" target="_blank" rel="noreferrer noopener">Swaccha Bleeding Edge</a> is a collection of static AdBlock filters for various popular Nepali sites.\ It helps you keep
             annoying
-            ads away from various popular Nepali sites. 
-<br/>Warning: Use only if you know what you are doing. Sites might regularly break, as I experiment with filters!
+            ads away from various popular Nepali sites.\ 
+<br/>Warning: Use only if you know what you are doing. Sites might regularly break, as I experiment with filters!\
 <br/> I contribute back to <a href="https://github.com/sndsabin/swaccha-adblock-filter" target="_blank" rel="noreferrer noopener">Swaccha </a> the original list. 
 </div>
 
