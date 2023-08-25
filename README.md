@@ -35,5 +35,5 @@ The site might have recently updated its layout or has changed its ad URL patter
 
 [ISC](LICENSE)
 
-**Inspired by [anti-adblock-killer](https://github.com/reek/anti-adblock-killer).**
+**Inspired by [anti-adblock-killer](https://github.com/reek/anti-adblock-killer).**\
 **Inspired by [swaccha-adblock-filter](https://github.com/sndsabin/swaccha-adblock-filter).**
